@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 26 18:13:46 2016
-
-@author: PAVAN
-"""
-
 #Header Files
 import numpy as np
 import parser
