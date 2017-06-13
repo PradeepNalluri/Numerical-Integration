@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 26 22:02:57 2016
-
-@author: PAVAN
-"""
-
 from Num_Int import *
 exit=0
 while(exit==0):
