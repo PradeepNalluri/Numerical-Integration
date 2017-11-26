@@ -1,2 +1,2 @@
 # Numerical-Integration
-Calculating the definate Integral numerically  using differnt methods
+Calculating the definite Integral numerically  using differnt methods
